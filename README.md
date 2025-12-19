@@ -12,10 +12,10 @@ This project analyzes over 120 years of Olympic history to identify demographic 
 4) Data Integrity: Implemented a pre-processing pipeline for missing value imputation, ensuring 100% consistency across inconsistent historical records.
 
 Tech Stack
-1)Language: Python 3.13
-2)Data Manipulation: Pandas, NumPy
-3)Visualization: Matplotlib
-4)Tools: Git, VS Code
+1) Language: Python 3.13
+2) Data Manipulation: Pandas, NumPy
+3) Visualization: Matplotlib
+4) Tools: Git, VS Code
 
  Core Insights
 1. The Home Field Advantage
