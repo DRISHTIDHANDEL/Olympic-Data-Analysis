@@ -22,3 +22,4 @@ Tech Stack
 Quantified the "Host Country" effect by mapping cities to regions. Data shows a statistically significant increase in medal counts (avg. 13% boost) when a nation hosts the games.
 2. Gender Representation
 Visualized the longitudinal shift in athlete participation, highlighting the climb in female representation from 1896 to the modern era.
+
